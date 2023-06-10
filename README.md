@@ -1,4 +1,4 @@
-## mini-projects
+## Mini-Projects
 Various mini data science projects utilizing skills in machine learning, NLP, scikit-learn, pandas and more
 
 ## Satellite Communications:
