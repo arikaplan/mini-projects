@@ -8,7 +8,7 @@ Data for yearly number of objects launched is obtained from our world in data: h
 
 Data for yearly number of satellites launched is obtained from UCS satellite database: https://www.ucsusa.org/resources/satellite-database
 
-**Time series forecasting:**
+## **Time series forecasting:**
 The goal of this notebook is to demonstrate the use of machine learning to forecast temperatures given a time series input
 
 **CNN image classification using tensorflow**
