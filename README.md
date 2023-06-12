@@ -13,6 +13,8 @@ The goal of this notebook is to demonstrate the use of machine learning to forec
 
 ## CNN image classification using tensorflow
 
+Trained a convolutional neural network using tensorflow in order to predict the label of images in cifar data
+
 data available at: https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## NLP star rating predictions using user reviews:
