@@ -20,3 +20,6 @@ data available at: https://www.cs.toronto.edu/~kriz/cifar.html
 Notebook showing NLP cabability in scikit-learn to predict user review star ratings based on review text. Also shows a method for calculating the 10 key words most likely to indicate a negative review
 
 data available at: https://www.yelp.com/dataset/download
+
+## Querying NYC resturaunt inspection data using SQL
+Notebook showing the process of querying NYC resturaunt inspection data using SQL. Two examples are given, one to group resturaunts by borough and show average score per borough, and one to group by cuisine type and show the number of violations per cuisine type within a given time period
