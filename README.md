@@ -3,7 +3,9 @@ Various mini data science projects utilizing skills in machine learning, NLP, sc
 
 ## NLP star rating predictions using user reviews:
 
-Notebook showing NLP cabability in scikit-learn to predict user review star ratings based on review text. Also shows a method for calculating the 10 key words most likely to indicate a negative review
+Notebook showing NLP cabability in scikit-learn to predict user review star ratings based on review text. An ensemble regression model is implemented as well as investigations into models using Naive Bayes, Gradient Boosting, XGBoost and a random forest classifier.
+
+Also shows a method using a naive bayes model for calculating key polarizing words most likely to indicate a negative or positive review.
 
 data available at: https://www.yelp.com/dataset/download
 
