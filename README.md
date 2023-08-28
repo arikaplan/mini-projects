@@ -16,7 +16,8 @@ Trained a convolutional neural network using tensorflow in order to predict the 
 data available at: https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## Time series forecasting:
-The goal of this notebook is to demonstrate the use of machine learning to forecast temperatures given a time series input
+The goal of this notebook is to demonstrate the use of machine learning to forecast temperatures given a time series input.
+Regression is done on both a one hot encoder and fourier model approach, with performance quantified by $R^2$ values.
 
 ## Querying NYC resturaunt inspection data using SQL
 Notebook showing the process of querying NYC resturaunt inspection data using SQL. Two examples are given, one to group resturaunts by borough and show average score per borough, and one to group by cuisine type and show the number of violations per cuisine type within a given time period
