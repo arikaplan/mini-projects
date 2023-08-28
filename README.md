@@ -11,7 +11,7 @@ data available at: https://www.yelp.com/dataset/download
 
 ## CNN image classification using tensorflow
 
-Trained a convolutional neural network using tensorflow in order to predict the label of images in cifar data
+Trained a convolutional neural network using tensorflow in order to predict the classification of images in cifar data
 
 data available at: https://www.cs.toronto.edu/~kriz/cifar.html
 
