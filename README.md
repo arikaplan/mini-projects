@@ -11,7 +11,7 @@ data available at: https://www.yelp.com/dataset/download
 
 ## CNN image classification using tensorflow
 
-Trained a convolutional neural network using tensorflow in order to predict the classification of images in cifar data
+Short notebook to show two methods of image classification using tensorflow Convolutional Neural Network (CNN) capability as well as the ability to implement transfer learning using a network already trained on color images (Inception network). Classification data is obtained from the The CIFAR-10 dataset.
 
 data available at: https://www.cs.toronto.edu/~kriz/cifar.html
 
