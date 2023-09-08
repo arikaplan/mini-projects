@@ -1,5 +1,5 @@
 ## Mini-Projects
-Various mini data science projects utilizing skills in machine learning, NLP, scikit-learn, pandas and more
+Various mini data science projects utilizing skills in machine learning, NLP, scikit-learn, pandas, SQL and more
 
 ## NLP star rating predictions using user reviews:
 
